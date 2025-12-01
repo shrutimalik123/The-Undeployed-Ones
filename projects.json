@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Travel Itinerary Planner Agent",
+        "description": "A smart travel agent powered by Google's Gemini 2.0 Flash model. Plans detailed, day-by-day travel itineraries based on your destination, dates, interests, and budget, with integrated weather forecasting.",
+        "repoUrl": "https://github.com/shrutimalik123/A-Simple-Travel-Itinerary-Planner-Agent",
+        "imageUrl": "https://placehold.co/600x400/1e293b/38bdf8?text=Travel+Planner+Agent"
+    },
+    {
+        "title": "Mindful Move",
+        "description": "An AI-powered wellness companion that finds the perfect Yoga, Pilates, or Tai Chi class tailored to your current mental and emotional state.",
+        "repoUrl": "https://github.com/shrutimalik123/Mindful-Move",
+        "imageUrl": "https://placehold.co/600x400/1e293b/38bdf8?text=Mindful+Move"
+    },
+    {
+        "title": "Gut Wise",
+        "description": "A comprehensive health tracking application focused on gut health, offering personalized insights and dietary recommendations. (Description inferred)",
+        "repoUrl": "https://github.com/shrutimalik123/Gut-Wise",
+        "imageUrl": "https://placehold.co/600x400/1e293b/38bdf8?text=Gut+Wise"
+    }
+]
