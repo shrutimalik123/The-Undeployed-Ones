@@ -19,6 +19,12 @@ document.addEventListener('DOMContentLoaded', () => {
             "description": "A comprehensive health tracking application focused on gut health, offering personalized insights and dietary recommendations. (Description inferred)",
             "repoUrl": "https://github.com/shrutimalik123/Gut-Wise",
             "imageUrl": "https://placehold.co/600x400/1e293b/38bdf8?text=Gut+Wise"
+        },
+        {
+            "title": "HolisticFind",
+            "description": "Discover trusted integrative health practitioners near you using AI-powered search.",
+            "repoUrl": "https://github.com/shrutimalik123/HolisticFind",
+            "imageUrl": "https://placehold.co/600x400/1e293b/38bdf8?text=HolisticFind"
         }
     ];
 
