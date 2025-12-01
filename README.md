@@ -2,6 +2,8 @@
 
 A curated collection of innovative projects by **Shruti Malik** that are currently undeployed due to API key requirements.
 
+🌟 **Live Showcase:** [the-undeployed-ones.vercel.app](https://the-undeployed-ones.vercel.app/)
+
 ## 🚀 How to Run These Projects
 
 Since these applications rely on paid or private API keys (such as Google Gemini, OpenAI, etc.), they are not hosted live. However, you can easily run them locally!
